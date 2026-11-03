@@ -1,4 +1,4 @@
-# KNPM-BTL-1
+[# KNPM-BTL-1
 # -*- coding: utf-8 -*-
 """
 HỆ THỐNG QUẢN LÝ ĐIỂM SINH VIÊN TRƯỜNG ĐẠI HỌC HẢI PHÒNG (HPUNI)
@@ -829,3 +829,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = HPUNIGradeSystem(root)
     root.mainloop()
+](https://github.com/vinhboss1807-ai/KNPM-BTL-1.git)
